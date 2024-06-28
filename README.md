@@ -1,5 +1,7 @@
 # Loan-Project
 
+This dataset typically used to predict the loan approval status (Loan_Status) based on the other attributes.
+
 Key aspects of my project include:
 
 Exploratory Data Analysis (EDA): Conducted EDA to understand the dataset and identify patterns.
